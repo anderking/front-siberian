@@ -44,13 +44,13 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/routes.json"
+              "src/_redirects"
             ],
             "styles": [
               {
                 "input": "src/theme/theme.scss"
               },
-              "src/styles.scss",
+              "src/styles.scss"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js"
